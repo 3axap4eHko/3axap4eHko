@@ -46,8 +46,8 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Markdown     32 mins         █████████████████████▒░░░   85.14 % 
-TypeScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+TypeScript   44 mins         ██████████████▒░░░░░░░░░░   57.51 % 
+Markdown     32 mins         ██████████▓░░░░░░░░░░░░░░   42.34 % 
 ```
 <!--END_SECTION:waka-->
 
