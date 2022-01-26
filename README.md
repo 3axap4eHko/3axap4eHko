@@ -46,7 +46,7 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   4 mins          █████████████████████░░░░   84.12 % 
 ```
 <!--END_SECTION:waka-->
 
