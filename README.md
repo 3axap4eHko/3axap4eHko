@@ -43,14 +43,29 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
+💖 My Open Source Projects
+
+ - [![Kafka Console](https://img.shields.io/npm/v/kafka-console.svg?style=for-the-badge&label=Kafka%20Console&logo=github&maxAge=43200)](https://github.com/3axap4eHko/kafka-console)
+
+ - [![Ascertain](https://img.shields.io/npm/v/ascertain.svg?style=for-the-badge&label=Ascertain&logo=github&maxAge=43200)](https://github.com/3axap4eHko/ascertain)
+
+ - [![Apidly](https://img.shields.io/npm/v/apidly.svg?style=for-the-badge&label=Apidly&logo=github&maxAge=43200)](https://github.com/3axap4eHko/apidly)
+
+ - [![Loggry](https://img.shields.io/npm/v/loggry.svg?style=for-the-badge&label=Loggry&logo=github&maxAge=43200)](https://github.com/3axap4eHko/loggry)
+
+ - [![Evnty](https://img.shields.io/npm/v/evnty.svg?style=for-the-badge&label=Evnty&logo=github&maxAge=43200)](https://github.com/3axap4eHko/evnty)
+
+ - [![React Native Katex](https://img.shields.io/npm/v/react-native-katex.svg?style=for-the-badge&label=React%20Native%20Katex&logo=github&maxAge=43200)](https://github.com/3axap4eHko/react-native-katex)
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   53 hrs 12 mins  ██████████████████████▒░░   89.79 % 
-JSON         2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-GraphQL      1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-YAML         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript   53 hrs 12 mins  ██████████████████████▒░░   89.79 %
+JSON         2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+GraphQL      1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 <!--END_SECTION:waka-->
 
@@ -62,6 +77,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3axap4eHko&show_icons=true&theme=gotham" alt="Ivan Zakharchanka (3axap4eHko)" />
-
-
 
