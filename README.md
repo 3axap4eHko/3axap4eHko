@@ -18,6 +18,7 @@ Hi there, I'm [Ivan Zakharchanka](https://zource.dev/), a passionate Senior Soft
 
 I am also an open-source contributor. I'm helping open-source projectes to make them better and enjoing it with every line of code.
 
+[![CodeWars](https://www.codewars.com/users/3axap4eHko/badges/large)](https://www.codewars.com/users/3axap4eHko)
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@3axap4eHko](https://twitter.com/3axap4eHko);
