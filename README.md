@@ -63,7 +63,10 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+TypeScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+JSON         19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Other        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
 ```
 
 <!--END_SECTION:waka-->
