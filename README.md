@@ -63,12 +63,12 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   42 hrs 7 mins   ███████████████████░░░░░░   75.69 %
-JSON         5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-JavaScript   2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Markdown     1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-GraphQL      58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other        56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   33 hrs 1 min    ██████████████████▒░░░░░░   73.17 %
+JSON         5 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+JavaScript   2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Markdown     55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Python       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Bash         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
