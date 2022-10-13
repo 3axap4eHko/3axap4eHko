@@ -63,8 +63,7 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 mins          ███████████████░░░░░░░░░░   59.76 %
-Other        4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+Other   4 mins          ███████████████████░░░░░░   75.88 %
 ```
 
 <!--END_SECTION:waka-->
