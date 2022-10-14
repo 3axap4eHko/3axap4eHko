@@ -63,7 +63,7 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-Other   4 mins          ███████████████████░░░░░░   75.88 %
+C#   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
