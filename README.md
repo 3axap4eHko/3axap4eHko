@@ -63,7 +63,8 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   6 hrs 31 mins   ████████████████████▓░░░░   82.66 %
+Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
 ```
 
 <!--END_SECTION:waka-->
