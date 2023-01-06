@@ -63,8 +63,7 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs           █████████████████████████   99.93 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
