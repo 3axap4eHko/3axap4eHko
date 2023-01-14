@@ -63,9 +63,7 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   10 mins         ████████████████████████▒   97.92 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
