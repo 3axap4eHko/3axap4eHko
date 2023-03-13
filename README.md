@@ -63,10 +63,10 @@ I am also an open-source contributor. I'm helping open-source projectes to make 
 <!--START_SECTION:waka-->
 
 ```text
-Lua        2 hrs 15 mins   ███████████████████████▒░   93.10 %
-Markdown   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Lua        24 mins         █████████████▒░░░░░░░░░░░   53.21 %
+Markdown   21 mins         ███████████▓░░░░░░░░░░░░░   46.69 %
+TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
