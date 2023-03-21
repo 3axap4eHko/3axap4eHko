@@ -14,9 +14,11 @@
 
 <br />
 
-Hi there, I'm [Ivan Zakharchanka](https://zource.dev/), a passionate Senior Software Engineer and a freelancer from US. I take great care in the experience, architecture, and code quality of the things I ever made.
+Hello there! My name is [Ivan Zakharchanka](https://zource.dev/), and I'm a Senior Software Engineer and freelancer from the US. I'm passionate about creating software that not only works flawlessly, but also provides an enjoyable experience for users.
 
-I am also an open-source contributor. I'm helping open-source projectes to make them better and enjoing it with every line of code.
+In addition to my work as a freelancer, I'm also an active contributor to the open-source community. I find it incredibly rewarding to collaborate with other developers and improve the software that we all rely on.
+
+If you're interested in working with me on a project or have any questions about my work, please don't hesitate to get in touch! I'm always happy to chat and explore new opportunities.
 
 [![CodeWars](https://www.codewars.com/users/3axap4eHko/badges/large)](https://www.codewars.com/users/3axap4eHko)
 
@@ -71,7 +73,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you appreciate my work and would like to support my contributions to the open-source community, maybe consider cheer me with a cup of coffee 🥺👉👈. Your support will help me to continue creating and sharing high-quality software that benefits everyone.
 
 <a href="https://www.buymeacoffee.com/3axap4eHko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
