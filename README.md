@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/9jzFhng">
   <img align="left" alt="Ivan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -14,7 +14,7 @@
 
 <br />
 
-Hello there! My name is [Ivan Zakharchanka](https://zource.dev/), and I'm a Senior Software Engineer and freelancer from the US. I'm passionate about creating software that not only works flawlessly, but also provides an enjoyable experience for users.
+My name is [Ivan Zakharchanka](https://zource.dev/), and I'm a Senior Software Engineer and freelancer from the US. I'm passionate about creating software that not only works flawlessly, but also provides an enjoyable experience for users.
 
 In addition to my work as a freelancer, I'm also an active contributor to the open-source community. I find it incredibly rewarding to collaborate with other developers and improve the software that we all rely on.
 
