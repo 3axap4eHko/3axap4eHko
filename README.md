@@ -65,8 +65,7 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     12 mins         ████████████████████████▒   97.31 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
