@@ -65,8 +65,7 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ██████████████████████▓░░   90.82 %
-Markdown     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
