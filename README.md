@@ -65,7 +65,8 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       2 mins          ████████████████████████░   95.74 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
