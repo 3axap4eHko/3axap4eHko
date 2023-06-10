@@ -65,9 +65,10 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       27 mins         ███████████████████████▓░   94.73 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+HTML         17 mins         ███████████████░░░░░░░░░░   59.71 %
+Markdown     11 mins         █████████▓░░░░░░░░░░░░░░░   38.10 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
