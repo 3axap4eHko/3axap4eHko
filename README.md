@@ -1,14 +1,15 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/9jzFhng">
-  <img align="left" alt="Ivan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Ivan's Discord" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 </a>
 <a href="https://twitter.com/3axap4eHko">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ivan's Twitter" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/3axap4eHko/">
-  <img align="left" alt="Ivan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ivan's LinkedIn" width="64px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
+<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=3axap4eHko.3axap4eHko)
 
@@ -74,7 +75,7 @@ JSON         8 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-If you appreciate my work and would like to support my contributions to the open-source community, maybe consider cheer me with a cup of coffee 🥺👉👈. Your support will help me to continue creating and sharing high-quality software that benefits everyone.
+If you appreciate my work and would like to support my contributions to the open-source community, maybe consider cheering me on with a cup of coffee 🥺👉👈. Your support will help me to continue creating and sharing high-quality software that benefits everyone.
 
 <a href="https://www.buymeacoffee.com/3axap4eHko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
