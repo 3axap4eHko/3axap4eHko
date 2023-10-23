@@ -66,11 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 hrs 29 mins  ███████████████████████░░   91.63 %
-Lua          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Ezhil        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   13 hrs 54 mins  ██████████████████████░░░   88.55 %
+Lua          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Ezhil        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
