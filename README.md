@@ -66,8 +66,8 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 25 mins   ████████████████████░░░░░   79.82 %
-Lua          36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+TypeScript   1 hr 39 mins    █████████████████████▓░░░   86.81 %
+Lua          15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
 ```
 
 <!--END_SECTION:waka-->
