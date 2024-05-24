@@ -66,7 +66,8 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   3 mins          █████████████████████████   100.00 %
+YAML   1 hr 40 mins    ███████████████████████▒░   93.27 %
+Bash   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
