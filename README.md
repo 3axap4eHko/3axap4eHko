@@ -66,10 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-Python     18 mins         ███████████████████▓░░░░░   79.31 %
-Bash       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python       37 mins         ██████████████████░░░░░░░   71.53 %
+Git Config   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Bash         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Markdown     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
