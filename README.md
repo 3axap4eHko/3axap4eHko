@@ -66,11 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 2 mins    ████████████▓░░░░░░░░░░░░   50.14 %
-JavaScript   50 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-TypeScript   49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Python       2 hrs 33 mins   █████████████▒░░░░░░░░░░░   52.72 %
+TypeScript   58 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+JavaScript   55 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
