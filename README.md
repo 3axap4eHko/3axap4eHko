@@ -66,11 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   29 hrs 34 mins  ██████████████████████▒░░   89.38 %
-JavaScript   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-GraphQL      35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Prisma       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   38 hrs 29 mins  ██████████████████████▓░░   90.05 %
+JavaScript   1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+GraphQL      1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+JSON         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Prisma       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
