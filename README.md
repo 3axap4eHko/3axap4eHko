@@ -66,11 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 39 mins    ████████████▒░░░░░░░░░░░░   48.87 %
-Markdown   1 hr 19 mins    █████████▓░░░░░░░░░░░░░░░   38.85 %
-INI        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-TOML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Rust       1 hr 39 mins    ████████████░░░░░░░░░░░░░   48.38 %
+Markdown   1 hr 19 mins    █████████▓░░░░░░░░░░░░░░░   38.46 %
+INI        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+TOML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
