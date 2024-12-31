@@ -66,8 +66,11 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   33 mins         ████████████████████▓░░░░   82.78 %
-TeX        6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+Markdown   52 mins         ██████████████░░░░░░░░░░░   55.94 %
+Other      13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+YAML       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Bash       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Makefile   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
