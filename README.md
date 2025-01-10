@@ -66,11 +66,10 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-C#         22 mins         █████████████▒░░░░░░░░░░░   52.74 %
-JSON       13 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
-Makefile   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-XML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#         22 mins         ████████████████▓░░░░░░░░   66.23 %
+Makefile   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+JSON       5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+XML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
