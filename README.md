@@ -66,9 +66,7 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-C#     22 mins         █████████████████████▓░░░   86.31 %
-JSON   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-XML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSON   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
