@@ -66,8 +66,7 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         3 mins          ████████████▓░░░░░░░░░░░░   50.73 %
-TypeScript   3 mins          ████████████▒░░░░░░░░░░░░   49.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
