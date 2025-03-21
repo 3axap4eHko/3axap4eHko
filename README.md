@@ -66,7 +66,9 @@ If you're interested in working with me on a project or have any questions about
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     4 mins          ██████████████▒░░░░░░░░░░   57.80 %
+TypeScript   2 mins          █████████░░░░░░░░░░░░░░░░   35.96 %
+Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
