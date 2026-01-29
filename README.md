@@ -73,7 +73,7 @@ No activity tracked
 
 If you appreciate my work and would like to support my contributions to the open-source community, maybe consider cheering me on with a cup of coffee 🥺👉👈. Your support will help me to continue creating and sharing high-quality software that benefits everyone.
 
-<a href="https://www.buymeacoffee.com/3axap4eHko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://github.com/sponsors/3axap4eHko" target="_blank"><img src="https://img.shields.io/badge/Support%20Me-%E2%9D%A4-ff00ff?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 My GitHub Stats
